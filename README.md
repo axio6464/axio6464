@@ -1,114 +1,95 @@
 <div align="center">
 
-<!-- Creative Animated Coding Banner -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="coding animation"/>
+<!-- Animated Matrix-Style Welcome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Initializing+AI+Engineer...;%3E+Loading+M.+SULEMAN;%3E+STATUS%3A+Ready+to+Build" alt="Matrix Typing" />
 
-</div>
+<!-- Animated Glitch Name Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=M.+SULEMAN;AI+ENGINEER;FULL-STACK+DEV" alt="Glitch Name" />
 
-<h1 align="center">Hi, I'm M. Suleman</h1>
+<!-- Terminal-Style Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&width=900&height=80&lines=~%2F%24+whoami+%E2%86%92+Building+intelligent+systems+that+scale;~%2F%24+skills+%E2%86%92+AI+%7C+ML+%7C+Computer+Vision+%7C+Full-Stack;~%2F%24+experience+%E2%86%92+7%2B+years+turning+ideas+into+production" alt="Terminal Commands" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Building+Intelligent+Systems;7%2B+Years+Experience" alt="Typing SVG" />
+<!-- Code-Style Animated Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=const+developer+%3D+%7B+passion%3A+'AI'%2C+mission%3A+'Innovation'%2C+status%3A+'Building+%F0%9F%9A%80'+%7D%3B;if+(problem)+%7B+solution+%3D+code()%3B+%7D;while+(learning)+%7B+skills%2B%2B%3B+impact%2B%2B%3B+%7D" alt="Code Animation" />
+
 </div>
 
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### About Me
-
 I'm a **Full-Stack & AI Engineer** helping startups go from concept to working AI products in weeks, not months. With over 7 years of hands-on experience, I specialize in building modern digital apps, SaaS platforms, and AI-driven MVPs that accelerate business growth. I design and develop AI agents, LLM-powered chatbots, and automation workflows that bring intelligence and efficiency to digital products.
 
 From crafting scalable SaaS systems to delivering interactive dashboards and custom AI integrations, I help founders turn ideas into revenue-generating realities. My work has empowered teams across the US, UK, and beyond, saving them hours of manual effort and unlocking new levels of productivity.
-
-<br/>
 
 ### Currently Working On:
 
 - AI-powered applications including intelligent recommendation systems, NLP-based solutions, and machine learning models
 - Experienced in building AI/ML solutions with expertise in Deep Learning, Natural Language Processing, and Computer Vision
 - Exploring Advanced AI techniques including LLMs, RAG systems, and AI Agent development
-- Available for: **your.email@example.com**
+
+### Connect with me:
+
+<p align="left">
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"/></a>
+<a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a>
+</p>
 
 <br clear="right"/>
 
 ---
 
-### Connect with me:
-
-<p align="left">
-<a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"/></a>
-<a href="https://medium.com/@yourprofile" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a>
-</p>
-
-<br/>
-
----
-
 ## Languages and Tools
+
+<div align="center">
 
 **AI/ML & Data Science:**
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TENSORFLOW-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPENCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SCIKIT%20LEARN-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/KERAS-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PANDAS-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NUMPY-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="numpy"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JUPYTER-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/>
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="numpy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 **Frontend Development:**
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NEXT.JS-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="angular"/></a>
-<a href="https://angularjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ANGULARJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwind"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,bootstrap,figma&theme=dark" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 **Backend & Mobile Development:**
 
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NODE.JS-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EXPRESS-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ANDROID-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="android"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FLUTTER-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cpp"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,android,flutter,cpp&theme=dark" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 **Database & Cloud:**
 
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MONGODB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="mssql"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="firebase"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/POSTGRESQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"/></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SUPABASE-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="supabase"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws"/></a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HEROKU-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" alt="heroku"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,aws,heroku&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="mssql"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 **DevOps & Tools:**
 
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="docker"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux"/></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white" alt="graphql"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,graphql,figma&theme=dark" />
 </p>
+
+</div>
 
 <br/>
 
