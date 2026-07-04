@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Suleman</h1>
+<h1 align="center">Hi, I'm M. Suleman</h1>
 
 <h4 align="center">I'm a Full-Stack & AI Engineer helping startups go from concept to working AI products in weeks, not months.
 
@@ -9,17 +9,17 @@ From crafting scalable SaaS systems to delivering interactive dashboards and cus
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axio6464&label=Profile%20views&color=0e75b6&style=flat" alt="axio6464" /> </p>
 
-- 🔭 I'm currently working on **AI-powered applications** including intelligent recommendation systems, NLP-based solutions, and machine learning models
+- I'm currently working on **AI-powered applications** including intelligent recommendation systems, NLP-based solutions, and machine learning models
 
-- 🤖 Experienced in building **AI/ML solutions** with expertise in Deep Learning, Natural Language Processing, and Computer Vision
+- Experienced in building **AI/ML solutions** with expertise in Deep Learning, Natural Language Processing, and Computer Vision
 
-- 🌱 I'm currently exploring **Advanced AI techniques** including LLMs, RAG systems, and AI Agent development
+- I'm currently exploring **Advanced AI techniques** including LLMs, RAG systems, and AI Agent development
 
-- 👨‍💻 All of my projects are available at [www.m-suleman.com](https://www.m-suleman.com)
+- All of my projects are available at [www.m-suleman.com](https://www.m-suleman.com)
 
-- 📝 I regularly write articles on [MyBlogs](https://medium.com/@yourusername)
+- I regularly write articles on [MyBlogs](https://medium.com/@yourusername)
 
-- 📫 How to reach me **your.email@example.com**
+- How to reach me **your.email@example.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -157,39 +157,39 @@ From crafting scalable SaaS systems to delivering interactive dashboards and cus
 
 <br/>
 
-<h3 align="left">🚀 Featured Projects:</h3>
+<h3 align="left">Featured Projects:</h3>
 
 ### AI & Machine Learning Solutions
 
-**🤖 SentinelPath** — AI-Powered Urban Vehicle Tracking System  
+**SentinelPath** — AI-Powered Urban Vehicle Tracking System  
 Production-ready vehicle tracking and stolen car detection system deployed for urban safety applications. Real-time license plate recognition with vector similarity search achieving 95%+ accuracy in vehicle identification across multiple camera feeds.  
 `Python` `YOLOv10` `OpenCV` `ChromaDB`
 
-**🔍 Real-Time Activity Detection System** — Behavioral Analysis for Public Safety  
+**Real-Time Activity Detection System** — Behavioral Analysis for Public Safety  
 Deployed AI system for shopping malls and public spaces, detecting suspicious activities in real-time. Reduces security response time by 60% with 89% accuracy in identifying abnormal behaviors through advanced multi-object tracking and temporal analysis.  
 `YOLOv8` `DeepSORT` `LSTM` `Python`
 
-**⚡ Intelligent Recommendation Engine** — Hybrid ML-Powered Recommendations  
+**Intelligent Recommendation Engine** — Hybrid ML-Powered Recommendations  
 Built enterprise recommendation system processing 10M+ user interactions daily. Combines constraint satisfaction, graph algorithms, K-Means clustering, and neural networks to deliver personalized recommendations, increasing user engagement by 45%.  
 `Python` `TensorFlow` `NumPy`
 
 ### Enterprise & Full-Stack Solutions
 
-**💼 MindVista CRM/HRMS** — Enterprise HR & CRM Platform  
+**MindVista CRM/HRMS** — Enterprise HR & CRM Platform  
 Built production-grade SaaS platform handling 5,000+ daily active users with enterprise-level security (JWT auth, RBAC, audit logging). Reduced HR operational overhead by 70% through intelligent automation and workflow optimization.  
 `Next.js` `Supabase` `Node.js` `PostgreSQL`
 
-**🎯 Job Marketplace Platform** — Full-Stack Recruitment Solution  
+**Job Marketplace Platform** — Full-Stack Recruitment Solution  
 Delivered scalable job portal connecting 50K+ candidates with employers. Real-time application tracking, intelligent job matching algorithms, and role-based dashboards. Increased placement rate by 35%.  
 `MongoDB` `Express` `React` `Node.js`
 
-**🚀 Enterprise ATS** — AI-Powered Recruitment Pipeline  
+**Enterprise ATS** — AI-Powered Recruitment Pipeline  
 Automated applicant tracking system with intelligent resume parsing and candidate scoring. Reduced time-to-hire by 50% for HR teams managing 1,000+ applications/month.  
 `MERN Stack` `NLP`
 
 <br/>
 
-<h3 align="left">� GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Automated applicant tracking system with intelligent resume parsing and candidat
 
 </div>
 
-<h3 align="left">🏆 GitHub Achievements:</h3>
+<h3 align="left">GitHub Achievements:</h3>
 
 <div align="center">
 
@@ -211,14 +211,14 @@ Automated applicant tracking system with intelligent resume parsing and candidat
 
 <br/>
 
-<h3 align="left">📊 Weekly Development Breakdown:</h3>
+<h3 align="left">Weekly Development Breakdown:</h3>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <br/>
 
-<h3 align="left">📈 GitHub Activity:</h3>
+<h3 align="left">GitHub Activity:</h3>
 
 <div align="center">
 
@@ -230,14 +230,14 @@ Automated applicant tracking system with intelligent resume parsing and candidat
 
 ---
 
-<h3 align="center">💻 Tech Stack & Experience</h3>
+<h3 align="center">Tech Stack & Experience</h3>
 
 <div align="center">
 
-**🤖 AI & Machine Learning:** 7+ years building production AI systems  
-**💼 Full-Stack Development:** Expertise in modern web & mobile technologies  
-**☁️ Cloud & DevOps:** AWS, Docker, scalable system architecture  
-**📊 Data Science:** Advanced analytics, ML models, computer vision  
+**AI & Machine Learning:** 7+ years building production AI systems  
+**Full-Stack Development:** Expertise in modern web & mobile technologies  
+**Cloud & DevOps:** AWS, Docker, scalable system architecture  
+**Data Science:** Advanced analytics, ML models, computer vision  
 
 </div>
 
