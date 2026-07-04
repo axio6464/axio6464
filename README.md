@@ -19,14 +19,14 @@ From crafting scalable SaaS systems to delivering interactive dashboards and cus
 
 - I regularly write articles on [MyBlogs](https://medium.com/@yourusername)
 
-- How to reach me **your.email@example.com**
+- How to reach me **sulemanliaqat1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="mailto:your.email@example.com" target="_blank">
+   <a href="mailto:sulemanliaqat1@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://linkedin.com/in/yourprofile" target="_blank">
+   <a href="https://linkedin.com/in/m-suleman-202414275" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@yourusername" target="_blank">
