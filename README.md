@@ -189,18 +189,25 @@ Automated applicant tracking system with intelligent resume parsing and candidat
 
 <br/>
 
-<h3 align="left">🚀 My GitHub Stats:</h3>
+<h3 align="left">� GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axio6464&show_icons=true&locale=en&layout=compact&theme=dark" alt="axio6464" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axio6464&show_icons=true&locale=en&theme=dark&count_private=true" alt="axio6464" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=axio6464&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axio6464&theme=dark" alt="axio6464" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axio6464&theme=dark&hide_border=true)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axio6464&layout=compact&theme=dark&hide_border=true)
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axio6464&theme=onedark" alt="axio6464" /></a> </p>
+</div>
+
+<h3 align="left">🏆 GitHub Achievements:</h3>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=axio6464&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <br/>
 
@@ -211,19 +218,31 @@ Automated applicant tracking system with intelligent resume parsing and candidat
 
 <br/>
 
-<h3 align="left">📈 Contribution Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axio6464&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<h3 align="left">📈 GitHub Activity:</h3>
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=axio6464&theme=react-dark&hide_border=true)
+
+</div>
 
 <br/>
 
-<h3 align="left">🐍 Contribution Snake:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<h3 align="center">💻 Tech Stack & Experience</h3>
+
+<div align="center">
+
+**🤖 AI & Machine Learning:** 7+ years building production AI systems  
+**💼 Full-Stack Development:** Expertise in modern web & mobile technologies  
+**☁️ Cloud & DevOps:** AWS, Docker, scalable system architecture  
+**📊 Data Science:** Advanced analytics, ML models, computer vision  
+
+</div>
+
+<br/>
+
 
 <br/>
 
