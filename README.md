@@ -155,4 +155,81 @@ From crafting scalable SaaS systems to delivering interactive dashboards and cus
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axio6464&show_icons=true&locale=en" alt="axio6464" /></p>
+<br/>
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+### AI & Machine Learning Solutions
+
+**🤖 SentinelPath** — AI-Powered Urban Vehicle Tracking System  
+Production-ready vehicle tracking and stolen car detection system deployed for urban safety applications. Real-time license plate recognition with vector similarity search achieving 95%+ accuracy in vehicle identification across multiple camera feeds.  
+`Python` `YOLOv10` `OpenCV` `ChromaDB`
+
+**🔍 Real-Time Activity Detection System** — Behavioral Analysis for Public Safety  
+Deployed AI system for shopping malls and public spaces, detecting suspicious activities in real-time. Reduces security response time by 60% with 89% accuracy in identifying abnormal behaviors through advanced multi-object tracking and temporal analysis.  
+`YOLOv8` `DeepSORT` `LSTM` `Python`
+
+**⚡ Intelligent Recommendation Engine** — Hybrid ML-Powered Recommendations  
+Built enterprise recommendation system processing 10M+ user interactions daily. Combines constraint satisfaction, graph algorithms, K-Means clustering, and neural networks to deliver personalized recommendations, increasing user engagement by 45%.  
+`Python` `TensorFlow` `NumPy`
+
+### Enterprise & Full-Stack Solutions
+
+**💼 MindVista CRM/HRMS** — Enterprise HR & CRM Platform  
+Built production-grade SaaS platform handling 5,000+ daily active users with enterprise-level security (JWT auth, RBAC, audit logging). Reduced HR operational overhead by 70% through intelligent automation and workflow optimization.  
+`Next.js` `Supabase` `Node.js` `PostgreSQL`
+
+**🎯 Job Marketplace Platform** — Full-Stack Recruitment Solution  
+Delivered scalable job portal connecting 50K+ candidates with employers. Real-time application tracking, intelligent job matching algorithms, and role-based dashboards. Increased placement rate by 35%.  
+`MongoDB` `Express` `React` `Node.js`
+
+**🚀 Enterprise ATS** — AI-Powered Recruitment Pipeline  
+Automated applicant tracking system with intelligent resume parsing and candidate scoring. Reduced time-to-hire by 50% for HR teams managing 1,000+ applications/month.  
+`MERN Stack` `NLP`
+
+<br/>
+
+<h3 align="left">🚀 My GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axio6464&show_icons=true&locale=en&layout=compact&theme=dark" alt="axio6464" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axio6464&show_icons=true&locale=en&theme=dark&count_private=true" alt="axio6464" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axio6464&theme=dark" alt="axio6464" /></p>
+
+<br/>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axio6464&theme=onedark" alt="axio6464" /></a> </p>
+
+<br/>
+
+<h3 align="left">📊 Weekly Development Breakdown:</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+<h3 align="left">📈 Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axio6464&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<br/>
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/axio6464/axio6464/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+---
+
+<div align="center">
+<h3>💼 Open to consulting opportunities and technical partnerships</h3>
+<p><strong>Portfolio:</strong> <a href="https://www.m-suleman.com">www.m-suleman.com</a> | <strong>Blog:</strong> <a href="https://medium.com/@yourusername">Medium</a></p>
+</div>
